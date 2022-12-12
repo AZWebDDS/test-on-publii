@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://azwebdds.github.io/test-on-publii/pervyy-post.html",
-            "url": "https://azwebdds.github.io/test-on-publii/pervyy-post.html",
+            "id": "https://azwebdds.github.io/test-on-publii/pervyy-post/",
+            "url": "https://azwebdds.github.io/test-on-publii/pervyy-post/",
             "title": "Первый пост",
             "summary": "Это первый пост тестового сайта.",
             "content_html": "<p>Это первый пост тестового сайта.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://azwebdds.github.io/test-on-publii/media/posts/1/Alex-in-Gocek-2022.jpg\" alt=\"Capt. Alex\" width=\"512\" height=\"512\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://azwebdds.github.io/test-on-publii/media/posts/1/responsive/Alex-in-Gocek-2022-xs.jpg 300w ,https://azwebdds.github.io/test-on-publii/media/posts/1/responsive/Alex-in-Gocek-2022-sm.jpg 480w ,https://azwebdds.github.io/test-on-publii/media/posts/1/responsive/Alex-in-Gocek-2022-md.jpg 768w ,https://azwebdds.github.io/test-on-publii/media/posts/1/responsive/Alex-in-Gocek-2022-lg.jpg 1024w\"></figure>",
