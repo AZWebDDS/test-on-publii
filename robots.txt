@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://azwebdds.github.io/test-on-publii/sitemap.xml

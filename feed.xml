@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>TEST SITE</title>
+    <link href="https://azwebdds.github.io/test-on-publii/feed.xml" rel="self" />
+    <link href="https://azwebdds.github.io/test-on-publii" />
+    <updated>2022-12-12T03:50:22+03:00</updated>
+    <author>
+        <name>AZWebDDS</name>
+    </author>
+    <id>https://azwebdds.github.io/test-on-publii</id>
+
+    <entry>
+        <title>Первый пост</title>
+        <author>
+            <name>AZWebDDS</name>
+        </author>
+        <link href="https://azwebdds.github.io/test-on-publii/pervyy-post.html"/>
+        <id>https://azwebdds.github.io/test-on-publii/pervyy-post.html</id>
+
+        <updated>2022-12-12T03:50:22+03:00</updated>
+            <summary>
+                <![CDATA[
+                    Это первый пост тестового сайта.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Это первый пост тестового сайта.</p>
+<figure class="post__image"><img loading="lazy"  src="https://azwebdds.github.io/test-on-publii/media/posts/1/Alex-in-Gocek-2022.jpg" alt="Capt. Alex" width="512" height="512" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://azwebdds.github.io/test-on-publii/media/posts/1/responsive/Alex-in-Gocek-2022-xs.jpg 300w ,https://azwebdds.github.io/test-on-publii/media/posts/1/responsive/Alex-in-Gocek-2022-sm.jpg 480w ,https://azwebdds.github.io/test-on-publii/media/posts/1/responsive/Alex-in-Gocek-2022-md.jpg 768w ,https://azwebdds.github.io/test-on-publii/media/posts/1/responsive/Alex-in-Gocek-2022-lg.jpg 1024w"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>

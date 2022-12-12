@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "TEST SITE",
+    "description": "",
+    "home_page_url": "https://azwebdds.github.io/test-on-publii",
+    "feed_url": "https://azwebdds.github.io/test-on-publii/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "AZWebDDS"
+    },
+    "items": [
+        {
+            "id": "https://azwebdds.github.io/test-on-publii/pervyy-post.html",
+            "url": "https://azwebdds.github.io/test-on-publii/pervyy-post.html",
+            "title": "Первый пост",
+            "summary": "Это первый пост тестового сайта.",
+            "content_html": "<p>Это первый пост тестового сайта.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://azwebdds.github.io/test-on-publii/media/posts/1/Alex-in-Gocek-2022.jpg\" alt=\"Capt. Alex\" width=\"512\" height=\"512\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://azwebdds.github.io/test-on-publii/media/posts/1/responsive/Alex-in-Gocek-2022-xs.jpg 300w ,https://azwebdds.github.io/test-on-publii/media/posts/1/responsive/Alex-in-Gocek-2022-sm.jpg 480w ,https://azwebdds.github.io/test-on-publii/media/posts/1/responsive/Alex-in-Gocek-2022-md.jpg 768w ,https://azwebdds.github.io/test-on-publii/media/posts/1/responsive/Alex-in-Gocek-2022-lg.jpg 1024w\"></figure>",
+            "author": {
+                "name": "AZWebDDS"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-12-12T03:50:22+03:00",
+            "date_modified": "2022-12-12T03:50:22+03:00"
+        }
+    ]
+}
