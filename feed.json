@@ -9,33 +9,5 @@
         "name": "AZWebDDS"
     },
     "items": [
-        {
-            "id": "https://azwebdds.github.io/test-on-publii/vtoroy-post/",
-            "url": "https://azwebdds.github.io/test-on-publii/vtoroy-post/",
-            "title": "Второй пост",
-            "summary": "Тут я пишу про второй пост",
-            "content_html": "\n  <p>\n    <br>\n  </p>\n\n    <h2 id=\"--\">\n      Это второй пост\n    </h2>\n\n  <p>\n    Тут я пишу про второй пост\n  </p>",
-            "author": {
-                "name": "AZWebDDS"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-12-22T02:32:10+03:00",
-            "date_modified": "2022-12-22T02:57:43+03:00"
-        },
-        {
-            "id": "https://azwebdds.github.io/test-on-publii/pervyy-post/",
-            "url": "https://azwebdds.github.io/test-on-publii/pervyy-post/",
-            "title": "Первый пост",
-            "summary": "Это первый пост тестового сайта. И я тут еще что-то дописал сбоку...",
-            "content_html": "<p>Это первый пост тестового сайта.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://azwebdds.github.io/test-on-publii/media/posts/1/Alex-in-Gocek-2022.jpg\" alt=\"Capt. Alex\" width=\"512\" height=\"512\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://azwebdds.github.io/test-on-publii/media/posts/1/responsive/Alex-in-Gocek-2022-xs.jpg 300w ,https://azwebdds.github.io/test-on-publii/media/posts/1/responsive/Alex-in-Gocek-2022-sm.jpg 480w ,https://azwebdds.github.io/test-on-publii/media/posts/1/responsive/Alex-in-Gocek-2022-md.jpg 768w ,https://azwebdds.github.io/test-on-publii/media/posts/1/responsive/Alex-in-Gocek-2022-lg.jpg 1024w\"></figure>И я тут еще что-то дописал сбоку...</p>",
-            "author": {
-                "name": "AZWebDDS"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-12-12T03:50:22+03:00",
-            "date_modified": "2022-12-22T02:09:56+03:00"
-        }
     ]
 }
