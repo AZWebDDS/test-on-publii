@@ -9,5 +9,33 @@
         "name": "AZWebDDS"
     },
     "items": [
+        {
+            "id": "https://azwebdds.github.io/test-on-publii/2-post/",
+            "url": "https://azwebdds.github.io/test-on-publii/2-post/",
+            "title": "2 post",
+            "summary": "This is the second post",
+            "content_html": "\n  <p>\n    This is the second post\n  </p>",
+            "author": {
+                "name": "AZWebDDS"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-12-26T00:20:28+03:00",
+            "date_modified": "2022-12-26T00:20:28+03:00"
+        },
+        {
+            "id": "https://azwebdds.github.io/test-on-publii/1-post/",
+            "url": "https://azwebdds.github.io/test-on-publii/1-post/",
+            "title": "1 post",
+            "summary": "This is the FIRST post.",
+            "content_html": "\n  <p>\n    This is the FIRST post.\n  </p>",
+            "author": {
+                "name": "AZWebDDS"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-12-26T00:20:03+03:00",
+            "date_modified": "2022-12-26T00:20:03+03:00"
+        }
     ]
 }
